@@ -16,7 +16,7 @@ DATE = 26.09.24 21:51\
 Treshhold zero lyap = 0.001\
 Treshhold zero angle = 0.001
 #### Pic
-![Angles](LorenzDoubPic1.png "")
+![Angles](Diagrams/LorenzDoubPic1.png "")
 
 ### 2
 #### Params
@@ -35,4 +35,4 @@ DATE = 27.09.24 23:44\
 Treshhold zero lyap = 0.001\
 Treshhold zero angle = 0.001
 #### Pic
-![Angles](LorenzDoubPic2.png "")
+![Angles](Diagrams/LorenzDoubPic2.png "")
