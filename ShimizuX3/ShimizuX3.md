@@ -82,7 +82,7 @@ TIME_FOR_CALC = 1000\
 DATE = 08.10.24 14:14\
 Treshhold zero lyap = 0.002\
 #### Pic
-![Angles](Pictures/ShimizuX3Lyap1.png)
+![Angles](Pictures/Final/MainLyap.pdf)
 
 ### 6
 #### Params
